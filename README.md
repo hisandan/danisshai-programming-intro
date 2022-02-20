@@ -10,7 +10,9 @@ Evidenciando que he adquirido los conocimientos correspondientes al curso de [In
 
 En este repositorio se desarrollaran algunos de los [parciales](https://sophia.javeriana.edu.co/programacion/parciales?anio_acad=All&field_periodo_academico_target_id=All&field_asignatura_target_id=14&field_numero_de_parcial_target_id=All) de años anteriores correspondientes al curso de **Introducción a la programación** de la Universidad Javeriana tomados de la página Sophia de la Universidad.
 
-> Nota: En la página de la universidad no están publicados los parciales de todos los años, actualmente se encuentran desarrollados en este repositorio los siguientes:
+## Progreso:
+
+> Nota: En la página de la universidad no están publicados los parciales de todos los años, por lo cual solo se van a tener en cuenta los siguientes parciales:
 
 - [ ] Primero
 
@@ -35,17 +37,18 @@ En este repositorio se desarrollaran algunos de los [parciales](https://sophia.j
 
 ## Esructura
 
-- parciales
-  - {#de Parcial}
-    - {año del Parcial} \_ {periodo}
-      - Readme.md : Descripción general del parcial.
-      - ej{numero de ejercio} _ {version} _ {titulo}.cpp : Código del ejercicio.
-      - ej{numero de ejercio} _ {version} _ {titulo}.md : Explicación Funcionamiento del ejercicio y muestra de resultados.
+- **parciales**
+  - **{#de Parcial}**
+  - **Readme.md** : Descripción de las tematicas del parcial.
+    - **{año del Parcial} \_ {periodo}**
+      - **Readme.md** : Descripción general del parcial.
+      - **ej{numero de ejercio} _ {version} _ {titulo}.cpp** : Código del ejercicio.
+      - **ej{numero de ejercio} _ {version} _ {titulo}.md** : Explicación Funcionamiento del ejercicio y muestra de resultados.
 
 ## Ejecución de los Ejercicios:
 
-### Windows:
+> Aquí van las instrucciones para ejecutar los ejercicios en computador personal.
 
-- Aqii van las instrucciones para ejecutar los ejercicios en computador personal.
+### Windows:
 
 ### Mac:
