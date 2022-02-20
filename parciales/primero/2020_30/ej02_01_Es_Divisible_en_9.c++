@@ -5,8 +5,8 @@ using namespace std;
 TASK:
 Hallar si un numero es divisible entre 9 mediante el siguiente procedimiento: 
 
-  - sumar los digitos del numero cuantas veces sea nescesario 
-    hasta que se reduzca a un solo numero.
+  - sumar los digitos del numero y si es nescesario del numero resultante 
+    cuantas veces sea nescesario hasta que se reduzca a un solo numero.
   - si ese numero es igual a 9 si es divisible entre 9 o si no No lo es.
 
 Nota: Se utilizaron bucles for para reemplazar la operoción de la potencia 10^n
