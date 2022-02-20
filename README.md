@@ -17,7 +17,7 @@ En este repositorio se desarrollaran algunos de los [parciales](https://sophia.j
 
 - [ ] Primero
 
-  - [ ] [2021_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/primero/2021_30)
+  - [x] [2021_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/primero/2021_30) | SOLO CODIGO
   - [ ] [2020_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/primero/2020_30)
   - [ ] [2019_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/primero/2019_30)
   - [ ] [2018_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/primero/2018_30)
