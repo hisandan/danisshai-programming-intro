@@ -17,26 +17,26 @@ En este repositorio se desarrollaran algunos de los [parciales](https://sophia.j
 
 - [ ] Primero
 
-  - [ ] [2021_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2021-30-Introducci%C3%B3nProgramaci%C3%B3n-1_1.pdf)
-  - [ ] [2020_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2020-30-Introducci%C3%B3nProgramaci%C3%B3n-1.pdf)
-  - [ ] [2019_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2019-30-PensamientoAlgor%C3%ADtmico-1.pdf)
-  - [ ] [2018_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2018-30-PensamientoAlgoritmico-1.pdf)
-  - [ ] [2017_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2017-30-PensamientoAlgoritmico-1.pdf)
+  - [ ] [2021_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/primero/2021_30)
+  - [ ] [2020_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/primero/2020_30)
+  - [ ] [2019_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/primero/2019_30)
+  - [ ] [2018_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/primero/2018_30)
+  - [ ] [2017_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/primero/2017_30)
 
 - [ ] Segundo
 
-  - [ ] [2020_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2020-30-Introducci%C3%B3nProgramci%C3%B3n-2.pdf)
-  - [ ] [2018_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2018-30-PensamientoAlgoritmico-2.pdf)
-  - [ ] [2018_10](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2018-10-PensamientoAlgoritmico-2.pdf)
-  - [ ] [2017_10](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2017-10-PensamientoAlgoritmico-2.pdf)
-  - [ ] [2017_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2017-30-PensamientoAlgoritmico-2.pdf)
+  - [ ] [2020_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/segundo/2020_30)
+  - [ ] [2018_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/segundo/2018_30)
+  - [ ] [2018_10](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/segundo/2018_10)
+  - [ ] [2017_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/segundo/2017_30)
+  - [ ] [2017_10](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/segundo/2017_10)
 
 - [ ] Tercero
-  - [ ] [2020_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2020-30-Introducci%C3%B3nProgramaci%C3%B3n-3.pdf)
-  - [ ] [2018_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2018-30-PensamientoAlgoritmico-3.pdf)
-  - [ ] [2018_10](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2018-10-PensamientoAlgoritmico-3.pdf)
-  - [ ] [2017_10](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2017-10-PensamientoAlgoritmico-3.pdf)
-  - [ ] [2017_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2017-30-PensamientoAlgoritmico-3.pdf)
+  - [ ] [2020_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/tercero/2020_30)
+  - [ ] [2018_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/tercero/2018_30)
+  - [ ] [2018_10](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/tercero/2018_10)
+  - [ ] [2017_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/tercero/2017_30)
+  - [ ] [2017_10](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/tercero/2017_10)
 
 ## Esructura
 

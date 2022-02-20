@@ -1,3 +1,7 @@
-# No se encontro parcial
+# Parcial 1 - 2020_30
 
-No se encontro parcial correspondiente a este corte en la [página de la universidad](https://sophia.javeriana.edu.co/programacion/parciales)
+## Este Parcial aún no ha sido desarrollado.
+
+Pdf del parcial: [aquí](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2020-30-Introducci%C3%B3nProgramaci%C3%B3n-1.pdf).
+
+Puede encontrar una lista de los parciales desarrollado en el [README.md](https://github.com/danisshai/danisshai-programming-intro/blob/main/README.md) principal de este repositorio.
