@@ -1,3 +1,3 @@
-# No se encontro parcial
+# Parcial 1 2018_10
 
-No se encontro parcial correspondiente a este corte en la [página de la universidad](https://sophia.javeriana.edu.co/programacion/parciales)
+Puedes encontrar una copia del parcial [aquí](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2017-30-PensamientoAlgoritmico-1.pdf).
