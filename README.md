@@ -13,8 +13,8 @@ En este repositorio se desarrollaran ejercicios y [parciales](https://sophia.jav
 ## Esructura
 
 - parciales
-  - #de Parcial
-    - año del Parcial
+  - {#de Parcial}
+    - {año del Parcial} \_ {periodo}
       - Readme.md : Descripción general del parcial.
       - ej{numero de ejercio} _ {version} _ {titulo}.cpp : Código del ejercicio.
       - ej{numero de ejercio} _ {version} _ {titulo}.md : Explicación Funcionamiento del ejercicio y muestra de resultados.
