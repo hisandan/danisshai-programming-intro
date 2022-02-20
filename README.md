@@ -13,6 +13,7 @@ En este repositorio se desarrollaran algunos de los [parciales](https://sophia.j
 ## Progreso:
 
 > Nota: En la página de la universidad no están publicados los parciales de todos los años, por lo cual solo se van a tener en cuenta los siguientes parciales:
+> Puedes dar click en cada fecha para ver el pdf del parcial.
 
 - [ ] Primero
 
@@ -20,14 +21,16 @@ En este repositorio se desarrollaran algunos de los [parciales](https://sophia.j
   - [ ] [2020_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2020-30-Introducci%C3%B3nProgramaci%C3%B3n-1.pdf)
   - [ ] [2019_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2019-30-PensamientoAlgor%C3%ADtmico-1.pdf)
   - [ ] [2018_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2018-30-PensamientoAlgoritmico-1.pdf)
-  - [ ] [2018_10]()
+  - [ ] [2017_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2017-30-PensamientoAlgoritmico-1.pdf)
 
 - [ ] Segundo
+
   - [ ] [2020_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2020-30-Introducci%C3%B3nProgramci%C3%B3n-2.pdf)
   - [ ] [2018_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2018-30-PensamientoAlgoritmico-2.pdf)
   - [ ] [2018_10](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2018-10-PensamientoAlgoritmico-2.pdf)
   - [ ] [2017_10](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2017-10-PensamientoAlgoritmico-2.pdf)
   - [ ] [2017_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2017-30-PensamientoAlgoritmico-2.pdf)
+
 - [ ] Tercero
   - [ ] [2020_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2020-30-Introducci%C3%B3nProgramaci%C3%B3n-3.pdf)
   - [ ] [2018_30](http://sophia.javeriana.edu.co/programacion/sites/default/files/pdfParciales/2018-30-PensamientoAlgoritmico-3.pdf)
