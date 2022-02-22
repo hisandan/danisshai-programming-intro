@@ -25,7 +25,7 @@ En este repositorio se desarrollaran algunos de los [parciales](https://sophia.j
 
 - [ ] Segundo
 
-  - [ ] [2020_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/segundo/2020_30)
+  - [x] [2020_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/segundo/2020_30) | SOLO CODIGO
   - [ ] [2018_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/segundo/2018_30)
   - [ ] [2018_10](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/segundo/2018_10)
   - [ ] [2017_30](https://github.com/danisshai/danisshai-programming-intro/tree/main/parciales/segundo/2017_30)
